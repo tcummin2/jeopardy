@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "vitest.explorer",
+    "editorconfig.editorconfig",
+    "shardulm94.trailing-spaces",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
