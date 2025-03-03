@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "ITC Korinna";
+  src: url("./ITC Korinna Regular.otf")
+}
+
+@font-face {
+  font-family: "Swiss";
+  src: url("./Swiss 911 Ultra Compressed BT.ttf")
+}
